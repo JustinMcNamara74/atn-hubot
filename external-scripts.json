@@ -9,5 +9,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-open-weather-map"
+  "hubot-open-weather-map",
+  "hubot-whos-that-pokemon"
 ]
