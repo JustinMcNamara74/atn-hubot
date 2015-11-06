@@ -19,7 +19,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.2",
     "hubot-whos-that-pokemon": "^0.0.1",
-    "hubot-youtube": "git+https://github.com/mikoim/hubot-youtube"
+    "hubot-youtube": "1.0.1"
   },
   "engines": {
     "node": "0.10.x"
