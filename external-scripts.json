@@ -1,6 +1,7 @@
 [
   "hubot-diagnostics",
   "hubot-help",
+  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
@@ -8,7 +9,11 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube",
+  "hubot-business-cat",
+  "hubot-dogeme",
   "hubot-open-weather-map",
-  "hubot-whos-that-pokemon"
+  "hubot-pugme",
+  "hubot-youtube",
+  "hubot-guys",
+  "hubot-principles"
 ]
