@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n atn-hubot
+web: bin/hubot -a slack
