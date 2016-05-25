@@ -13,7 +13,6 @@
     "hubot-faker": "^1.1.0",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
-    "hubot-guys": "0.0.1",
     "hubot-heroku-keepalive": "^1.0.2",
     "hubot-is-the-door-open": "latest",
     "hubot-maps": "0.0.2",
